@@ -2,7 +2,7 @@
 layout: post
 title:  "شروع به نوشتن"
 permalink: blog/start
-parsidate: جمعه ۱۴ آذر ۱۳۹۳
+parsidate: 2.11.2015
 comments: true
 imglink: http://hosseinkarami.com/assets/img/post/typewriter.jpg
 imgauthor: http://florianklauer.de/
